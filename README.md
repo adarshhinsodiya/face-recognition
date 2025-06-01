@@ -47,7 +47,7 @@ python face_recognition.py
 
 ## License
 
-This project is licensed under the MIT License.
+This project is free to use and open source.
 
 ---
 
